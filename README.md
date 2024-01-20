@@ -1,7 +1,7 @@
 ![logo](https://github.com/nvanxndhu/nvanxndhu/blob/main/Add%20a%20heading.png?raw=true)
 <h1 align="center">Hi 👋, I'm Anandhu N V</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvanxndhu&label=Profile%20views&color=0e75b6&style=flat" alt="nvanxndhu" /> </p>
 
 - 📈 I’m currently learning **MERN STACK**
