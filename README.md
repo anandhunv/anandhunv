@@ -1,4 +1,4 @@
-![logo](https://github.com/nvanxndhu/Anandhu-NV/blob/main/banner.jpg)
+![logo](https://github.com/nvanxndhu/nvanxndhu/blob/main/Add%20a%20heading.png?raw=true)
 <h1 align="center">Hi 👋, I'm Anandhu N V</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
