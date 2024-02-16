@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandhunv&show_icons=true&locale=en&layout=compact" alt="anandhunv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhunv&show_icons=true&locale=en" alt="anandhunv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandhunv&custom_title=Week%20Streak" alt="anandhunv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandhunv&" alt="anandhunv" /></p>
