@@ -10,7 +10,7 @@
 
 - 📨 Reach out to me here:anandhuvasudevannv18@gmail.com.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jMZiz9f6UarplNNQX9Kh7yuP6K3amCxB/view?usp=drive_link)
+<!---- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jMZiz9f6UarplNNQX9Kh7yuP6K3amCxB/view?usp=drive_link)-->
 
 - ⚡ Fun fact: <i>In the tech realm, my code's so witty, it's practically programming stand-up!</i> 😄💻
 
