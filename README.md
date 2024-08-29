@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandhunv&label=Profile%20views&color=0e75b6&style=flat" alt="anandhunv" /> </p>
 
-- 📈 I’m currently learning **MERN STACK**
+- 📈 I’m currently learning **MERN STACK** and exploring advanced topics in **Full Stack Development**.
 
 <!--- 💬 Ask me about **Basic C, Basic Java, HTML, CSS, JavaScript** -->
 
@@ -14,6 +14,19 @@
 <!---- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jMZiz9f6UarplNNQX9Kh7yuP6K3amCxB/view?usp=drive_link) -->
 
 - ⚡ Fun fact: <i>In the tech realm, my code's so witty, it's practically programming stand-up!</i> 😄💻
+
+<h3 align="center">✨ Highlights ✨</h3>
+<p align="center">
+  - 💼 **Experienced in MERN Stack**: Building modern web applications with MongoDB, Express.js, React.js, and Node.js.
+  - 🚀 **Passionate About UI/UX**: Crafting beautiful and user-friendly interfaces with React and Tailwind CSS.
+  - 📊 **Data-Driven**: Leveraging APIs and real-time data to enhance user experience and functionality.
+</p>
+
+<h3 align="left">🔍 Projects:</h3>
+
+- **[YouTube-like Video Streaming App](https://github.com/anandhunv/video-streaming-app)**: A React-based application with features like video playback, live chat, comments, and search, using React.js, Redux, Tailwind CSS, and the YouTube Data API.
+
+- **[Food Carts](https://github.com/anandhunv/food-carts)**: A food order application with functionalities like search, cart management, and restaurant menus, designed with React.js and Tailwind CSS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +50,7 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandhunv&show_icons=true&locale=en&layout=compact" alt="anandhunv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhunv&show_icons=true&locale=en" alt="anandhunv" /></p>
