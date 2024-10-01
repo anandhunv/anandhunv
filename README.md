@@ -39,12 +39,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/anandhu-nv" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
- <a href="https://www.leetcode.com/anandhuvasudevannv18" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="anandhuvasudevannv18" height="30" width="40" />
+<a href="https://www.leetcode.com/anandhuvasudevannv18" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/LeetCode_logo_black.png" alt="anandhuvasudevannv18" height="30" width="100" />
 </a>
-  <a href="https://instagram.com/nv_anandhu" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="nv_anxndhu" height="30" width="40" />
+
+ <a href="https://instagram.com/nv_anandhu" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="nv_anandhu" height="30" width="30" />
 </a>
+
 </p>
 
 ---
